@@ -1,16 +1,10 @@
 # whats_app
 
-A new Flutter project.
+A basic Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![b](https://github.com/AlinaAfzaal/whats_app/assets/90548775/2bac0174-f612-4ec7-acd2-07f940f2ce97)
 
-A few resources to get you started if this is your first Flutter project:
+![c](https://github.com/AlinaAfzaal/whats_app/assets/90548775/8d2b7848-c3dc-4011-992f-008d3fb53b55)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![a](https://github.com/AlinaAfzaal/whats_app/assets/90548775/b3641223-aa4d-4960-8a37-916f231a0466)
